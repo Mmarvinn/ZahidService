@@ -1,0 +1,5 @@
+<br>
+<b>Fatal error</b>:  Uncaught Error: Class 'Awf\Database\QueryElement' not found in C:\OSPanel\domains\localhost\wp-content\plugins\akeebabackupwp\app\vendor\akeeba\awf\tests\Database\QueryElementInspector.php:17
+Stack trace:
+#0 {main}
+  thrown in <b>C:\OSPanel\domains\localhost\wp-content\plugins\akeebabackupwp\app\vendor\akeeba\awf\tests\Database\QueryElementInspector.php</b> on line <b>17</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'WPForms\Admin\Traits\FormTemplates' not found in <b>C:\OSPanel\domains\localhost\wp-content\plugins\wpforms-lite\src\Admin\Pages\Templates.php</b> on line <b>12</b><br>

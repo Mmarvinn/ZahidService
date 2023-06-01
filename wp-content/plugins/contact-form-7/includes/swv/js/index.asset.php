@@ -1,0 +1,2 @@
+<br>
+<b>Warning</b>:  Use of undefined constant WPCF7_VERSION - assumed 'WPCF7_VERSION' (this will throw an Error in a future version of PHP) in <b>C:\OSPanel\domains\localhost\wp-content\plugins\contact-form-7\includes\swv\js\index.asset.php</b> on line <b>5</b><br>
