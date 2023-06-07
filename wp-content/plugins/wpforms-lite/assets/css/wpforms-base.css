@@ -865,7 +865,7 @@ body.rtl .wpforms-container .wpforms-first + .wpforms-one-half {
 
 .wpforms-container .wpforms-datepicker-wrap .wpforms-datepicker-clear {
   position: absolute;
-  background-image: url(https://mmarvinn.github.io/ZahidService/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg);
+  background-image: url(https://zahid-service.netlify.app/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-color: #cccccc;

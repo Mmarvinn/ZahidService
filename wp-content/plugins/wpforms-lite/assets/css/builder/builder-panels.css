@@ -1011,7 +1011,7 @@
 }
 
 .wpforms-builder-provider-connections-default::before {
-  background: url("https://mmarvinn.github.io/ZahidService/wp-content/plugins/wpforms-lite/assets/images/builder/default-arrow.svg") no-repeat 0 0;
+  background: url("https://zahid-service.netlify.app/wp-content/plugins/wpforms-lite/assets/images/builder/default-arrow.svg") no-repeat 0 0;
   background-size: 97px 81px;
   content: "";
   height: 83px;
