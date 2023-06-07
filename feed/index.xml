@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Захід Сервіс</title>
-	<atom:link href="https://zahid-service.netlify.app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zahid-service.netlify.app/</link>
+	<atom:link href="https://zahidservice.netlify.app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zahidservice.netlify.app/</link>
 	<description>Продаж, обслуговування дереворіжучого та деревообробного інструменту</description>
 	<lastBuildDate>Fri, 02 Jun 2023 11:45:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>https://zahid-service.netlify.app/wp-content/uploads/2023/04/cropped-free-icon-saw-blade-512px-32x32.png</url>
+	<url>https://zahidservice.netlify.app/wp-content/uploads/2023/04/cropped-free-icon-saw-blade-512px-32x32.png</url>
 	<title>Захід Сервіс</title>
-	<link>https://zahid-service.netlify.app/</link>
+	<link>https://zahidservice.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

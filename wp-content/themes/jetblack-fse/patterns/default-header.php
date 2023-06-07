@@ -11,7 +11,7 @@
 <!-- wp:group -->
 <div class="wp-block-group">
 <!-- wp:image {"id":8088,"sizeSlug":"full","linkDestination":"none","className":"is-style-default vertical-aligncenter"} -->
-<figure class="wp-block-image size-full is-style-default vertical-aligncenter"><img src="https://zahid-service.netlify.app/wp-content/themes/jetblack-fse/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in C:\OSPanel\domains\https://zahid-service.netlify.app\wp-content\themes\jetblack-fse\patterns\default-header.php:15_Stack trace:_#0 {main}_  thrown in <b>C:\OSPanel\domains\https://zahid-service.netlify.app\wp-content\themes\jetblack-fse\patterns\default-header.php</b> on line <b>15</b><br />"></figure>
+<figure class="wp-block-image size-full is-style-default vertical-aligncenter"><img src="https://zahidservice.netlify.app/wp-content/themes/jetblack-fse/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in C:\OSPanel\domains\https://zahidservice.netlify.app\wp-content\themes\jetblack-fse\patterns\default-header.php:15_Stack trace:_#0 {main}_  thrown in <b>C:\OSPanel\domains\https://zahidservice.netlify.app\wp-content\themes\jetblack-fse\patterns\default-header.php</b> on line <b>15</b><br />"></figure>
 </div>
 </div>
 </div>
