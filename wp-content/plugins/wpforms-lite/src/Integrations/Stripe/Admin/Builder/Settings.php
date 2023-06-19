@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'WPForms\Integrations\Stripe\Admin\Builder\Traits\ContentTrait' not found in <b>C:\OSPanel\domains\localhost\wp-content\plugins\wpforms-lite\src\Integrations\Stripe\Admin\Builder\Settings.php</b> on line <b>12</b><br>
